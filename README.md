@@ -2,7 +2,8 @@
 
 🌱 I’m currently learning Advanced Data Analysis & Statistics 
 
- 📫 How to reach me - www.linkedin.com/in/pathanmubashira ,  Email - pathanmubashira35@gmail.com
+ 📫 How to reach me - www.linkedin.com/in/pathanmubashira 
+  Email - pathanmubashira35@gmail.com
 		 
  ⚡ Fun fact: I once tried to microwave popcorn without putting it in a microwave-safe bag. Let's just say it resulted in quite the kitchen adventure and a lesson learned about reading instructions carefully!
 
