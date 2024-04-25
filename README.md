@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Advanced Data Analysis & Statistics 
 
- How to reach me - www.linkedin.com/in/pathanmubashira 
+ Linkedin - www.linkedin.com/in/pathanmubashira 
  <br>
  Email - pathanmubashira35@gmail.com
 		 
