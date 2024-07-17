@@ -21,7 +21,7 @@ Hi, I’m Pathan Mubashira, a recent graduate with a strong foundation in progra
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pathanmubashira&theme=radical)
 
 ### Featured Projects
-#### [Data Analysis Project - Popular Movie Genre](https://github.com/Pathanmubashira/Data-Analysis-Projects/blob/main/Project%20Final-%20EDA%20on%20popular%20movie%20genre.ipynb)
+#### [Data Analysis Project - Popular Movie Genre](https://github.com/Pathanmubashira/All-About-Data-Analysis-/blob/main/Project%20Final-%20EDA%20on%20popular%20movie%20genre.ipynb)
 ##### Exploratory Data Analysis
  - Conducted exploratory data analysis on Top 500 movies of all time. 
  - This project is about an exploratory data analysis on popular movie genre, commencing with web scraping for data collection, followed by data cleaning, and concluding with data analysis through visualization.
