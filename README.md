@@ -26,7 +26,7 @@ Hi, I’m Pathan Mubashira, a recent graduate with a strong foundation in progra
  - Conducted exploratory data analysis on Top 500 movies of all time. 
  - This project is about an exploratory data analysis on popular movie genre, commencing with web scraping for data collection, followed by data cleaning, and concluding with data analysis through visualization.
  - The objective is to identify patterns and trends in movie preferences among audiences 
-#### [Data Professional Survey](https://github.com/Pathanmubashira/Power-Bi/blob/main/Data%20Professional%20Survey.pbix)
+#### [Power Bi - Data Professional Survey](https://github.com/Pathanmubashira/Power-Bi/blob/main/Data%20Professional%20Survey.pbix)
 ##### Data Professional Survey Project
 - The "Data Professional Survey" project analyzes the landscape of data professionals, exploring their demographics, skills, career paths, and work environments. It aims to provide insights into industry trends, challenges, and opportunities.
 - Survey Design and Data Collection: Gather responses from a diverse group of data professionals.
