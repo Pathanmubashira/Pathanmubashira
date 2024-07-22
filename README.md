@@ -9,11 +9,6 @@ Hi, I’m Pathan Mubashira, a recent graduate with a strong foundation in progra
 - **Tools & Technologies:** Git, Power BI, Jupyter Notebook
 - **Databases:** MySQL
 
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pathanmubashira&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pathanmubashira&theme=radical)
-
 ### Featured Projects
 #### [Data Analysis Project - Popular Movie Genre](https://github.com/Pathanmubashira/All-About-Data-Analysis-/blob/main/Project%20Final-%20EDA%20on%20popular%20movie%20genre.ipynb)
 ##### Exploratory Data Analysis
